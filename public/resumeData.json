@@ -14,17 +14,17 @@
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://sleepyresume.netlify.app",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/sleepyboy123/",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/mtanzs",
         "className":"fa fa-twitter"
       },
       {
